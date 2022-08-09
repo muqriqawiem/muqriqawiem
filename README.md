@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hello there, fellow developers!</h1>
+<h1 align="center">Hello There, Fellow Developers!</h1>
 
 ###
 
