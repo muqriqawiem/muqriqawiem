@@ -97,7 +97,7 @@
 
 <br clear="both">
 
-<h1 align="left">✍️ Random Dev Quote</h1>
+<h1 align="left">✍️ Random Dev. Quote</h1>
 
 ###
 
@@ -109,7 +109,7 @@
 
 <br clear="both">
 
-<h1 align="left">😂 Random Dev Meme</h1>
+<h1 align="left">😂 Random Dev. Meme</h1>
 
 ###
 
