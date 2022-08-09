@@ -11,13 +11,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muqriqawiem&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muqriqawiem&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muqriqawiem&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
