@@ -10,11 +10,15 @@
   <img height="200" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
 </div>
 
+<p align="center">You have finally discovered my Github profile.<br>Feel free to clone projects, raise issues and submit PRs if you think something could be better.<br>Happy coding!😎</p>
+
 ###
 
 <br clear="both">
 
-<p align="center">You have finally discovered my Github profile.<br>Feel free to clone projects, raise issues and submit PRs if you think something could be better.<br>Happy coding!😎</p>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muqriqawiem.muqriqawiem&right_color=yellowgreen&left_text=Visitors"  />
+</div>
 
 ###
 
@@ -26,7 +30,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
@@ -85,7 +89,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&username=muqriqawiem" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&username=muqriqawiem" height="150" alt="languages graph"  />
 </div>
@@ -94,23 +98,25 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
+<h1 align="left">✍️ Random Dev Quote</h1>
 
 ###
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/muqriqawiem/muqriqawiem/blob/output/snake.svg" alt="Snake animation" />
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=muqriqawiem.muqriqawiem&right_color=yellowgreen&left_text=hits"  />
-</div>
+<h1 align="left">😂 Random Dev Meme</h1>
+
+###
+
+<br clear="both">
+
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ###
 
