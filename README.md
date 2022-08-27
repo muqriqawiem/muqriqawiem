@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi!👋I'm Muqri Qawiem </h1>
+<h1 align="center">Hi!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Muqri Qawiem </h1>
 
 ###
 
@@ -109,34 +109,4 @@
 
 <br clear="both">
 
-<h1 align="left">😂 Random Dev. Meme</h1>
 
-###
-
-<br clear="both">
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muqri-qawiem/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:muhammadmuqri32@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://linktr.ee/muqriqawiem" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
