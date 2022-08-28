@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<h1 align="left">📊 GitHub Stats:</h1>
+<h3 align="left">📊 GitHub Stats:</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<h1 align="left">✍️ Random Dev. Quote</h1>
+<h3 align="left">✍️ Random Dev. Quote</h3>
 
 ###
 
